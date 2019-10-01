@@ -1,6 +1,6 @@
 {
   "name": "@adiatma2019/cli-dir-to-json",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "lib/cli.js",
   "license": "MIT",
   "bin": "./lib/cli.js",
@@ -10,5 +10,9 @@
   "author": "adiatma <adiatma.kamaarudin@ralali.com>",
   "description": "CLI to convert directory to json",
   "repository": "https://github.com/adiatma/cli-dir-to-json.git",
-  "keywords": ["nodejs", "cli", "json"]
+  "keywords": [
+    "nodejs",
+    "cli",
+    "json"
+  ]
 }
