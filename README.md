@@ -22,6 +22,6 @@ cat example.json
     }
   ]
 }
-```.
+```
 
 Thanks
