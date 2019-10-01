@@ -1,0 +1,12 @@
+{
+  "name": "cli-dir-to-json",
+  "version": "0.1.0",
+  "main": "lib/cli.js",
+  "license": "MIT",
+  "bin": "./lib/cli.js",
+  "dependencies": {
+    "dotenv": "^8.1.0"
+  },
+  "author": "adiatma <adiatma.kamaarudin@ralali.com>",
+  "description": "CLI to convert directory to json"
+}
