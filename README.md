@@ -1,6 +1,6 @@
 # cli-dir-to-json
 
-![[npm](https://img.shields.io/npm/dm/@adiatma2019/cli-dir-to-json)](https://www.npmjs.com/package/@adiatma2019/cli-dir-to-json)
+![https://img.shields.io/npm/dm/@adiatma2019/cli-dir-to-json](https://www.npmjs.com/package/@adiatma2019/cli-dir-to-json)
 
 🗂 CLI to convert directory to json file.
 
