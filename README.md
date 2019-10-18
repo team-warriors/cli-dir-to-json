@@ -1,5 +1,8 @@
 # cli-dir-to-json
-✨CLI to convert directory to json file.
+
+[[npm](https://img.shields.io/npm/dm/@adiatma2019/cli-dir-to-json)](https://www.npmjs.com/package/@adiatma2019/cli-dir-to-json)
+
+🗂 CLI to convert directory to json file.
 
 ## List Features
 - [x] Convert directory to JSON.
@@ -23,7 +26,7 @@ npm install --save-dev @adiatma2019/cli-dir-to-json
 ```
 ./project
 |-folder
-|--hello.txt
+|--hello.txt -> "caption=hello"
 ```
 
 - Please type with `npx @adiatma2019/cli-dir-to-json folder output.json` Output.
